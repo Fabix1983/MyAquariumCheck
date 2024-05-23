@@ -95,11 +95,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MyAquariumCheck.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
@@ -155,7 +150,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\fishback.scale-100.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MyAquariumCheck.AssemblyInfoInputs.cache
@@ -379,3 +373,16 @@ C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net8.0-window
 C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
 C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
 C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\splashscreen.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\sea.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-400.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-200.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-150.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-125.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png

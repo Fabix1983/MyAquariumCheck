@@ -11,4 +11,9 @@ public partial class InfoApp : ContentPage
     {
         Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
     }
+
+    private void OnButtonInfoClicked(object sender, EventArgs e)
+    {
+        Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
+    }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyAquariumCheck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3394b8f0c8a9d1b7fe5199f6f26fbe291c3aa6ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyAquariumCheck")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyAquariumCheck")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

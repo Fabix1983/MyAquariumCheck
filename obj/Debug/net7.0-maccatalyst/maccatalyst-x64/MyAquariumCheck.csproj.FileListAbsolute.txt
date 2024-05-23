@@ -529,7 +529,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatal
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\MyAquariumCheck.pdb
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\MyAquariumCheck.genruntimeconfig.cache
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\MyAquariumCheck.dll
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\fishback.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
@@ -807,3 +806,9 @@ C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net7.0-maccat
 C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
 C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
 C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\del.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\del@2x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\del@3x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\info.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\sea.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\splashscreen.jpg

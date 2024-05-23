@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahv/vhRxhKQ3IZ+OBppK9ipjrBnqV1NB6qgGb4RQIERZgzfF35hOC/Ufe9UULu1BGwLb6p9AU5aX5vkOCrT/Gg==",
+  "dgSpecHash": "xYgcdDydpos08E452mKWnP+nzLaBUUFbLVWJNwAH99sTulyBwGgdceRxHjXgwoSKQ/szagMKsKNAZApnVysDJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PC\\Desktop\\Progetti Locale\\MAUI\\MyAquariumCheck\\MyAquariumCheck.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\GitHub\\MyAquariumCheck\\MyAquariumCheck.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",

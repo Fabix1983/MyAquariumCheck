@@ -1,1 +1,1 @@
-C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\MyAquariumCheck.csproj;x64
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\MyAquariumCheck.csproj;x64
