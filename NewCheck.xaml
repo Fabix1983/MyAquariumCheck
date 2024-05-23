@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyAquariumCheck.NewCheck"
+             BackgroundImageSource="sea.png"
+             Title="NewCheck">
+
+    <VerticalStackLayout Margin="5" Padding="10, 10, 10, 10" Spacing="5" x:Name="VLayoutNewCheck">
+
+        <Grid 
+                Padding="3"
+                Margin="1,1"
+                ColumnDefinitions="*,*"
+                RowDefinitions="auto"
+                ColumnSpacing="0"
+                RowSpacing="0"
+                x:Name="AppTop">
+
+            <Image
+                    Source="logo.png"
+                    SemanticProperties.Description=""
+                    HeightRequest="100"
+                    WidthRequest="100"
+                    HorizontalOptions="Center"
+                    Grid.Row="0" 
+                    Grid.Column="0"/>
+
+            <Label
+                    Text="My Aquarium Check"
+                    SemanticProperties.HeadingLevel="Level1"
+                    FontSize="30"
+                    FontFamily="Impact"
+                    TextColor="mediumturquoise"
+                    HorizontalOptions="Center" 
+                    VerticalOptions="Center"
+                    Grid.Row="0" 
+                    Grid.Column="1"/>
+        </Grid>
+
+        <Rectangle Fill="mediumturquoise" />
+
+        <Label
+                Text="Check Valori Acquario"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center" />
+
+        <DatePicker 
+            x:Name="DataTXT"
+            HorizontalOptions="Center"
+            TextColor="White"
+            BackgroundColor="mediumturquoise"
+            MinimumDate="{Binding MinDate}"
+            MaximumDate="{Binding MaxDate}"
+            Date="{Binding SelectedDate}" />
+
+        <Label
+                Text="Temperatura"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center"
+                x:Name="T_corrente"
+                />
+
+        <Slider Margin="5,5" Minimum="16" Maximum="35" x:Name="T_TXT" ValueChanged="OnSliderValueChanged" />
+
+        <Grid 
+            ColumnDefinitions="*,*,*,*,*"
+            RowDefinitions="*"
+            ColumnSpacing="2"
+            RowSpacing="0"
+            x:Name="GridData0">
+
+            <Label
+                Text="PH"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center"
+                x:Name="PH_corrente"
+                Grid.Row="0" 
+                Grid.Column="0"
+                />
+
+            <Label
+                Text="KH"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center"
+                x:Name="KH_corrente"
+                Grid.Row="0" 
+                Grid.Column="1"                
+                />
+
+            <Label
+                Text="GH"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center"
+                x:Name="GH_corrente"
+                Grid.Row="0" 
+                Grid.Column="2"                
+                />
+
+            <Label
+                Text="No2"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center"
+                x:Name="No2_corrente"
+                Grid.Row="0" 
+                Grid.Column="3"                
+                />
+
+            <Label
+                Text="No3"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="20"
+                TextColor="White"
+                HorizontalOptions="Center"
+                x:Name="No3_corrente"
+                Grid.Row="0" 
+                Grid.Column="4"                
+                />
+
+        </Grid>
+
+        <Grid 
+            ColumnDefinitions="*,*,*"
+            RowDefinitions="*"
+            ColumnSpacing="2"
+            RowSpacing="0"
+            x:Name="GridData2">
+
+            <Entry 
+                HorizontalOptions="Center"
+                Placeholder="PH"
+                SemanticProperties.Hint="PH"
+                WidthRequest="30"
+                TextColor="Black"
+                MaxLength="5"
+                Keyboard="Numeric"
+                x:Name="PH_TXT" 
+                BackgroundColor="White"
+                Grid.Row="0" 
+                Grid.Column="0"
+                TextChanged="OnPHValueCanged"
+                />
+
+            <Entry 
+                HorizontalOptions="Center"
+                Placeholder="KH"
+                SemanticProperties.Hint="KH"
+                WidthRequest="30"
+                TextColor="Black"
+                MaxLength="5"
+                Keyboard="Numeric"
+                x:Name="KH_TXT" 
+                BackgroundColor="White"
+                Grid.Row="0" 
+                Grid.Column="1"
+                TextChanged="OnKHValueCanged"/>
+
+            <Entry 
+                HorizontalOptions="Center"
+                Placeholder="GH"
+                SemanticProperties.Hint="GH"
+                WidthRequest="30"
+                TextColor="Black"
+                MaxLength="5"
+                Keyboard="Numeric"
+                BackgroundColor="White"
+                x:Name="GH_TXT"
+                Grid.Row="0" 
+                Grid.Column="2"
+                TextChanged="OnGHValueCanged"/>
+        </Grid>
+
+        <Grid 
+            ColumnDefinitions="*,*"
+            RowDefinitions="*"
+            ColumnSpacing="2"
+            RowSpacing="0"
+            x:Name="GridData3">
+
+            <Entry 
+                HorizontalOptions="Center"
+                Placeholder="No2"
+                SemanticProperties.Hint="No2"
+                WidthRequest="30"
+                TextColor="Black"
+                MaxLength="5"
+                Keyboard="Numeric"
+                BackgroundColor="White"
+                x:Name="No2_TXT" 
+                Grid.Row="0" 
+                Grid.Column="0"
+                TextChanged="OnNo2ValueCanged"/>
+
+            <Entry 
+                HorizontalOptions="Center"
+                Placeholder="No3"
+                SemanticProperties.Hint="No3"
+                WidthRequest="30"
+                TextColor="Black"
+                MaxLength="5"
+                Keyboard="Numeric"
+                BackgroundColor="White"
+                x:Name="No3_TXT" 
+                Grid.Row="0" 
+                Grid.Column="1"
+                TextChanged="OnNo3ValueCanged"/>
+        </Grid>
+
+        <Button
+                x:Name="InsBtn"
+                Text="Conferma"
+                SemanticProperties.Hint="Inserisci check"
+                Clicked="OnInsClicked"
+                BackgroundColor="mediumturquoise"
+                WidthRequest="150"
+                HorizontalOptions="Center" />
+
+        <Rectangle Fill="mediumturquoise" />
+
+        <Label
+                Text="[T] : Temperatura in gradi Celsius C° - Il [PH] indica la natura acida, neutra o basica dell'acqua (valore neutro 7) - [No2] NITRITI NO2 valore consigliato 0 mg/l - [No3] NITRATI NO3 valore consigliati ≤ 30 mg/l - Il [KH] è la durezza carbonatica temporanea mentre il [GH] è la durezza totale."
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="12"
+                TextColor="White"
+                HorizontalOptions="Center" />
+
+        <Grid 
+            ColumnDefinitions="*,*"
+            RowDefinitions="*"
+            ColumnSpacing="2"
+            RowSpacing="0"
+            x:Name="GridDataF">
+
+            <Button 
+                  Text="Home"
+                  VerticalOptions="Center"
+                  BackgroundColor="dodgerblue"
+                  WidthRequest="100"
+                  Grid.Row="0" 
+                  Grid.Column="0" 
+                  HorizontalOptions="Center"
+                  Clicked="OnButtonHomeClicked"
+                />
+
+            <Button 
+                  Text="Info App"
+                  VerticalOptions="Center"
+                  BackgroundColor="mediumturquoise"
+                  WidthRequest="100"
+                  Grid.Row="0" 
+                  Grid.Column="1" 
+                  HorizontalOptions="Center"
+                  Clicked="OnButtonInfoAppClicked"
+                />
+        </Grid>
+
+
+
+    </VerticalStackLayout>
+
+</ContentPage>

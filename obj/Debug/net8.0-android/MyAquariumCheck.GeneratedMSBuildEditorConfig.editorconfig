@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyAquariumCheck
+build_property.ProjectDir = C:\Users\PC\Desktop\Progetti Locale\MAUI\MyAquariumCheck\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/ChartPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.ChartPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ChartPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ChartPage.xaml
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/InfoApp.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.InfoApp.xaml
+build_metadata.AdditionalFiles.TargetPath = InfoApp.xaml
+build_metadata.AdditionalFiles.RelativePath = InfoApp.xaml
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/NewCheck.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.NewCheck.xaml
+build_metadata.AdditionalFiles.TargetPath = NewCheck.xaml
+build_metadata.AdditionalFiles.RelativePath = NewCheck.xaml
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/PC/Desktop/Progetti Locale/MAUI/MyAquariumCheck/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
