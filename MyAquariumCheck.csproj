@@ -50,11 +50,14 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="Resources\Images\add.svg" />
+	  <None Remove="Resources\Images\chart.svg" />
 	  <None Remove="Resources\Images\del.svg" />
+	  <None Remove="Resources\Images\home.svg" />
 	  <None Remove="Resources\Images\info.png" />
+	  <None Remove="Resources\Images\infoicon.svg" />
 	  <None Remove="Resources\Images\logo.png" />
 	  <None Remove="Resources\Images\sea.png" />
-	  <None Remove="Resources\Images\splashscreen.jpg" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -70,10 +73,10 @@
 	  <MauiXaml Update="InfoApp.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="MainTabPage.xaml">
+	  <MauiXaml Update="NewCheck.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
-	  <MauiXaml Update="NewCheck.xaml">
+	  <MauiXaml Update="TabPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

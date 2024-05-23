@@ -31,7 +31,7 @@
                     SemanticProperties.HeadingLevel="Level1"
                     FontSize="30"
                     FontFamily="Impact"
-                    TextColor="mediumturquoise"
+                    TextColor="darkblue"
                     HorizontalOptions="Center" 
                     VerticalOptions="Center"
                     Grid.Row="0" 
@@ -39,6 +39,15 @@
         </Grid>
 
         <Rectangle Fill="mediumturquoise" />
+
+        <Image
+            Grid.Row="0"
+            Grid.Column="1"
+            Source="info.png"
+            SemanticProperties.Description=""
+            HeightRequest="50"
+            WidthRequest="50"
+            HorizontalOptions="Center" />
 
         <Label
             Text="Info My Aquarium Check"
@@ -117,44 +126,6 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."
                 HorizontalOptions="Center" />
 
         <Rectangle Fill="mediumturquoise" />
-
-        <Grid 
-            ColumnDefinitions="*,*"
-            RowDefinitions="*"
-            ColumnSpacing="2"
-            RowSpacing="0"
-            x:Name="GridDataF">
-
-            <Button 
-                  Text="Home"
-                  VerticalOptions="Center"
-                  BackgroundColor="dodgerblue"
-                  WidthRequest="100"
-                  Grid.Row="0" 
-                  Grid.Column="0" 
-                  HorizontalOptions="Center"
-                  Clicked="OnButtonHomeClicked"
-                />
-
-            <Image
-                Grid.Row="0"
-                Grid.Column="1"
-                Source="info.png"
-                SemanticProperties.Description=""
-                HeightRequest="50"
-                WidthRequest="50"
-                HorizontalOptions="Center" />
-
-            <ImageButton Source="info.png"
-                    Clicked="OnButtonInfoClicked"
-                    HorizontalOptions="Center"
-                    VerticalOptions="Center" 
-                    BackgroundColor="Transparent"
-                    Background="Transparent"
-                    HeightRequest="100"
-                    WidthRequest="100"/>
-        </Grid>
-
 
 
         </VerticalStackLayout>

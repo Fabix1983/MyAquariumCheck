@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-23T13:41:12.275</Modified>
+      <Modified>2024-05-23T19:50:19.510</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-05-23T13:03:03.832</Modified>
+      <Modified>2024-05-23T19:50:19.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyAquariumCheck.runtimeconfig.json">
       <PackagePath>MyAquariumCheck.runtimeconfig.json</PackagePath>
-      <Modified>2024-05-23T13:03:03.773</Modified>
+      <Modified>2024-05-23T19:50:19.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyAquariumCheck.dll">
       <PackagePath>MyAquariumCheck.dll</PackagePath>
-      <Modified>2024-05-23T13:41:11.988</Modified>
+      <Modified>2024-05-23T19:50:18.035</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MyAquariumCheck.exe</PackagePath>
-      <Modified>2024-05-23T13:41:11.992</Modified>
+      <Modified>2024-05-23T19:50:18.067</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.005</Modified>
+      <Modified>2024-05-23T19:39:21.125</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.008</Modified>
+      <Modified>2024-05-23T19:39:21.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.022</Modified>
+      <Modified>2024-05-23T19:39:21.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.060</Modified>
+      <Modified>2024-05-23T19:39:21.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.167</Modified>
+      <Modified>2024-05-23T19:39:21.286</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -84,227 +84,227 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2024-05-23T12:57:37.192</Modified>
+      <Modified>2024-05-23T19:39:21.312</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.511</Modified>
+      <Modified>2024-05-23T19:39:21.657</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.538</Modified>
+      <Modified>2024-05-23T19:39:21.673</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.569</Modified>
+      <Modified>2024-05-23T19:39:21.697</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.614</Modified>
+      <Modified>2024-05-23T19:39:21.742</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.749</Modified>
+      <Modified>2024-05-23T19:39:21.863</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.253</Modified>
+      <Modified>2024-05-23T19:39:21.379</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.254</Modified>
+      <Modified>2024-05-23T19:39:21.381</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.270</Modified>
+      <Modified>2024-05-23T19:39:21.396</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.257</Modified>
+      <Modified>2024-05-23T19:39:21.384</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.262</Modified>
+      <Modified>2024-05-23T19:39:21.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.234</Modified>
+      <Modified>2024-05-23T19:39:21.357</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.236</Modified>
+      <Modified>2024-05-23T19:39:21.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.250</Modified>
+      <Modified>2024-05-23T19:39:21.376</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.238</Modified>
+      <Modified>2024-05-23T19:39:21.361</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.241</Modified>
+      <Modified>2024-05-23T19:39:21.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.197</Modified>
+      <Modified>2024-05-23T19:39:21.316</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.199</Modified>
+      <Modified>2024-05-23T19:39:21.319</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.202</Modified>
+      <Modified>2024-05-23T19:39:21.322</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.206</Modified>
+      <Modified>2024-05-23T19:39:21.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.212</Modified>
+      <Modified>2024-05-23T19:39:21.331</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.214</Modified>
+      <Modified>2024-05-23T19:39:21.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.216</Modified>
+      <Modified>2024-05-23T19:39:21.336</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.231</Modified>
+      <Modified>2024-05-23T19:39:21.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.218</Modified>
+      <Modified>2024-05-23T19:39:21.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.220</Modified>
+      <Modified>2024-05-23T19:39:21.339</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.324</Modified>
+      <Modified>2024-05-23T19:39:21.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.331</Modified>
+      <Modified>2024-05-23T19:39:21.463</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.338</Modified>
+      <Modified>2024-05-23T19:39:21.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.353</Modified>
+      <Modified>2024-05-23T19:39:21.493</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.390</Modified>
+      <Modified>2024-05-23T19:39:21.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.295</Modified>
+      <Modified>2024-05-23T19:39:21.422</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.299</Modified>
+      <Modified>2024-05-23T19:39:21.426</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.303</Modified>
+      <Modified>2024-05-23T19:39:21.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.307</Modified>
+      <Modified>2024-05-23T19:39:21.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.316</Modified>
+      <Modified>2024-05-23T19:39:21.447</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.275</Modified>
+      <Modified>2024-05-23T19:39:21.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.278</Modified>
+      <Modified>2024-05-23T19:39:21.404</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.281</Modified>
+      <Modified>2024-05-23T19:39:21.408</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.285</Modified>
+      <Modified>2024-05-23T19:39:21.413</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.292</Modified>
+      <Modified>2024-05-23T19:39:21.419</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.398</Modified>
+      <Modified>2024-05-23T19:39:21.544</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.406</Modified>
+      <Modified>2024-05-23T19:39:21.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.418</Modified>
+      <Modified>2024-05-23T19:39:21.566</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.431</Modified>
+      <Modified>2024-05-23T19:39:21.585</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.496</Modified>
+      <Modified>2024-05-23T19:39:21.641</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-100.png">
       <PackagePath>del.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.188</Modified>
+      <Modified>2024-05-23T19:39:21.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-125.png">
       <PackagePath>del.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.189</Modified>
+      <Modified>2024-05-23T19:39:21.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-150.png">
       <PackagePath>del.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.190</Modified>
+      <Modified>2024-05-23T19:39:21.303</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-200.png">
       <PackagePath>del.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.190</Modified>
+      <Modified>2024-05-23T19:39:21.304</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-400.png">
       <PackagePath>del.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.191</Modified>
+      <Modified>2024-05-23T19:39:21.305</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.212</Modified>
+      <Modified>2024-05-23T19:39:21.307</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.220</Modified>
+      <Modified>2024-05-23T19:39:21.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.229</Modified>
+      <Modified>2024-05-23T19:39:21.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.246</Modified>
+      <Modified>2024-05-23T19:39:21.340</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-05-23T12:57:37.285</Modified>
+      <Modified>2024-05-23T19:39:21.382</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-100.png">
       <PackagePath>info.scale-100.png</PackagePath>
@@ -324,7 +324,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyAquariumCheck.deps.json">
       <PackagePath>MyAquariumCheck.deps.json</PackagePath>
-      <Modified>2024-05-23T13:03:03.770</Modified>
+      <Modified>2024-05-23T19:50:19.030</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyAquariumCheck.TabPage"
+             xmlns:local="clr-namespace:MyAquariumCheck"
+             Title="TabbedPageDemo"
+             BarBackgroundColor="deepskyblue"
+             BarTextColor="White"
+             SelectedTabColor="White"
+             UnselectedTabColor="Black">
+    
+    <local:MainPage Title="Home" IconImageSource="home.svg">
+    </local:MainPage>
+    <local:NewCheck Title="New" IconImageSource="add.svg">
+    </local:NewCheck>
+    <local:ChartPage Title="Chart" IconImageSource="chart.svg">
+    </local:ChartPage>
+    <local:InfoApp Title="Info" IconImageSource="infoicon.svg">
+    </local:InfoApp>
+
+</TabbedPage>

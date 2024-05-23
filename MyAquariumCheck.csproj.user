@@ -23,9 +23,6 @@
     <MauiXaml Update="MainPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="MainTabPage.xaml">
-      <SubType>Designer</SubType>
-    </MauiXaml>
     <MauiXaml Update="NewCheck.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
@@ -36,6 +33,9 @@
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Resources\Styles\Styles.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="TabPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>

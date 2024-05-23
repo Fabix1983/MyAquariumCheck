@@ -115,12 +115,6 @@ namespace MyAquariumCheck
                     pos++;
         }
 
-
-        private void OnButtonNewCheckClicked(object sender, EventArgs e)
-        {
-            Application.Current.MainPage.Navigation.PushModalAsync(new NewCheck(), true);
-        }
-
     }
 
 }

@@ -140,17 +140,21 @@ public partial class NewCheck : ContentPage
             await App.Current.MainPage.DisplayAlert("Inserimento Controllo Eseguito",
                 "...ho memorizzato il Tuo controllo dei valori", "OK");
 
-            await Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
+            //await Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
+
+            await Application.Current.MainPage.Navigation.PushModalAsync(new TabPage(), true);
+
         }
         else
         {
             await App.Current.MainPage.DisplayAlert("Inserimento Controllo FALLITO",
                 "mmmh qualcosa si è rotto...", "OK");
 
-            await Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
+            //await Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
         }
     }
 
+    /*
     private void OnButtonInfoAppClicked(object sender, EventArgs e)
     {
         Application.Current.MainPage.Navigation.PushModalAsync(new InfoApp(), true);
@@ -160,4 +164,5 @@ public partial class NewCheck : ContentPage
     {
         Application.Current.MainPage.Navigation.PushModalAsync(new MainPage(), true);
     }
+    */
 }
