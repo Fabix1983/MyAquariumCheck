@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyAquariumCheck.ListPage"
+             Title="ListPage">
+    <VerticalStackLayout>
+
+        <Grid 
+                Padding="3"
+                Margin="1,1"
+                ColumnDefinitions="*,*"
+                RowDefinitions="auto"
+                ColumnSpacing="0"
+                RowSpacing="0"
+                x:Name="AppTop">
+
+            <Image
+                    Source="logo.png"
+                    SemanticProperties.Description=""
+                    HeightRequest="100"
+                    WidthRequest="100"
+                    HorizontalOptions="Center"
+                    Grid.Row="0" 
+                    Grid.Column="0"/>
+
+            <Label
+                    Text="My Aquarium Check"
+                    SemanticProperties.HeadingLevel="Level1"
+                    FontSize="30"
+                    FontFamily="Impact"
+                    TextColor="darkblue"
+                    HorizontalOptions="Center" 
+                    VerticalOptions="Center"
+                    Grid.Row="0" 
+                    Grid.Column="1"/>
+        </Grid>
+
+        <Rectangle Fill="mediumturquoise" />
+
+        <CarouselView x:Name="ListView" IndicatorView="indicatorView">
+            <CarouselView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout BackgroundColor="Azure" Padding="10">
+                        <Label FontSize="Medium" FontAttributes="Bold" HorizontalTextAlignment="Center" Text="{Binding Nome}" />
+                        <Image
+                            Source="{Binding imgname}"
+                            SemanticProperties.Description=""
+                            HeightRequest="100"
+                            WidthRequest="100"
+                            HorizontalOptions="Center"/>
+                        <Label FontSize="Small" HorizontalTextAlignment="Center" Text="{Binding Descrizione}" />
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CarouselView.ItemTemplate>
+        </CarouselView>
+        <IndicatorView x:Name="indicatorView" Margin="5" HorizontalOptions="Center" IndicatorColor="Azure" SelectedIndicatorColor="Blue"/>
+    </VerticalStackLayout>
+</ContentPage>

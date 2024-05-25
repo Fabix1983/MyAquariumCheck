@@ -4,7 +4,7 @@
              x:Class="MyAquariumCheck.TabPage"
              xmlns:local="clr-namespace:MyAquariumCheck"
              Title="TabbedPageDemo"
-             BarBackgroundColor="deepskyblue"
+             BarBackgroundColor="mediumturquoise"
              BarTextColor="White"
              SelectedTabColor="White"
              UnselectedTabColor="Black">
@@ -17,5 +17,7 @@
     </local:ChartPage>
     <local:InfoApp Title="Info" IconImageSource="infoicon.svg">
     </local:InfoApp>
+    <local:ListPage Title="List" IconImageSource="list.svg">
+    </local:ListPage>
 
 </TabbedPage>

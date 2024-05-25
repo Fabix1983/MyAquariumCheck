@@ -405,3 +405,17 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\infoicon.scale-150.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\infoicon.scale-125.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\infoicon.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-400.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-200.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-150.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-125.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-100.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\betta.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\platy.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\discus.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\scalare.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\neon.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\guppy.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\oranda.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\corydoras.scale-100.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ramirezi.scale-100.jpg

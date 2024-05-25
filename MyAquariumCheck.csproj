@@ -51,12 +51,22 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Images\add.svg" />
+	  <None Remove="Resources\Images\betta.jpg" />
 	  <None Remove="Resources\Images\chart.svg" />
+	  <None Remove="Resources\Images\corydoras.jpg" />
 	  <None Remove="Resources\Images\del.svg" />
+	  <None Remove="Resources\Images\discus.jpg" />
+	  <None Remove="Resources\Images\guppy.jpg" />
 	  <None Remove="Resources\Images\home.svg" />
 	  <None Remove="Resources\Images\info.png" />
 	  <None Remove="Resources\Images\infoicon.svg" />
+	  <None Remove="Resources\Images\list.svg" />
 	  <None Remove="Resources\Images\logo.png" />
+	  <None Remove="Resources\Images\neon.jpg" />
+	  <None Remove="Resources\Images\oranda.jpg" />
+	  <None Remove="Resources\Images\platy.jpg" />
+	  <None Remove="Resources\Images\ramirezi.jpg" />
+	  <None Remove="Resources\Images\scalare.jpg" />
 	  <None Remove="Resources\Images\sea.png" />
 	</ItemGroup>
 
@@ -71,6 +81,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="InfoApp.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="ListPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="NewCheck.xaml">

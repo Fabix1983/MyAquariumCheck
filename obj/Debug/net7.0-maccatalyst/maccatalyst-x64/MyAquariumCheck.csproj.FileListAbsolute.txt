@@ -823,3 +823,15 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatal
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\infoicon.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\infoicon@2x.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\infoicon@3x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\list.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\list@2x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\list@3x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\betta.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\corydoras.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\discus.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\guppy.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\neon.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\oranda.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\platy.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\ramirezi.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\scalare.jpg

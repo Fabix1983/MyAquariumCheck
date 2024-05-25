@@ -1331,7 +1331,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\asse
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Numerics.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Numerics.Vectors.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.ObjectModel.dll
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.DataContractSerialization.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.Uri.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.Xml.dll
@@ -2157,3 +2156,18 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\infoicon.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\infoicon.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\infoicon.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\list.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\list.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\list.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\list.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\list.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\betta.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\oranda.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\guppy.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\corydoras.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\discus.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\scalare.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\neon.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\ramirezi.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable\platy.jpg

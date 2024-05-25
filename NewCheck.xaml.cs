@@ -126,11 +126,11 @@ public partial class NewCheck : ContentPage
         {
             Data = DateTime.Parse(formatted),
             Temperatura = Convert.ToInt32(T_TXT.Value),
-            PH = PH_TXT.Text.Trim(),
-            GH = GH_TXT.Text.Trim(),
-            KH = KH_TXT.Text.Trim(),
-            NO2 = No2_TXT.Text.Trim(),
-            NO3 = No3_TXT.Text.Trim(),
+            PH = Convert.ToDecimal(PH_TXT.Text),
+            GH = Convert.ToDecimal(GH_TXT.Text),
+            KH = Convert.ToDecimal(KH_TXT.Text),
+            NO2 = Convert.ToDecimal(No2_TXT.Text),
+            NO3 = Convert.ToDecimal(No3_TXT.Text),
         };
 
         int esito = await database.AggiungiCheckItem(nuovoCheckItem);

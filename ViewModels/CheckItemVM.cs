@@ -13,11 +13,11 @@ namespace MyAquariumCheck.ViewModels
         public long Id { get; set; }
         public DateTime Data { get; set; }
         public int Temperatura { get; set; }
-        public string PH { get; set; }
-        public string GH { get; set; }
-        public string KH { get; set; }
-        public string NO2 { get; set; }
-        public string NO3 { get; set; }
+        public decimal PH { get; set; }
+        public decimal GH { get; set; }
+        public decimal KH { get; set; }
+        public decimal NO2 { get; set; }
+        public decimal NO3 { get; set; }
 
         private bool _eseguito;
         public bool Eseguito
