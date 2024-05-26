@@ -675,3 +675,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\guppy.jpg
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\neon.jpg
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Resources\oranda.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dett@3x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dett@2x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dett.png

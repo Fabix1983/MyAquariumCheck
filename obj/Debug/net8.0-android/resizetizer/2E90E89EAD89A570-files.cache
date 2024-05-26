@@ -13,6 +13,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable\sea.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\add.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\chart.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\del.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dett.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\infoicon.png
@@ -20,6 +21,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-hdpi\list.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\add.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\chart.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\del.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dett.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\infoicon.png
@@ -27,6 +29,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-mdpi\list.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\add.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\chart.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\del.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dett.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\infoicon.png
@@ -34,6 +37,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\list.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\add.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\chart.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\del.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dett.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\infoicon.png
@@ -41,6 +45,7 @@ obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\list.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\add.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\chart.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\del.png
+obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dett.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\dotnet_bot.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\home.png
 obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\infoicon.png

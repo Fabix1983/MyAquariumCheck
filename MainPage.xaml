@@ -61,7 +61,7 @@
 
                                 <SwipeView.RightItems>
                                     <SwipeItems Mode="Execute">
-                                        <SwipeItem Text="_"
+                                        <SwipeItem Text=""
                                               Command="{Binding DeleteItemCommand}"
                                               CommandParameter="{Binding .}"
                                               IconImageSource="del.svg"                                             
@@ -71,34 +71,49 @@
 
                                 <Grid
                                         Padding="2"
-                                        Margin="0,2"
-                                        ColumnDefinitions="*,*"
+                                        Margin="2,2"
+                                        ColumnDefinitions="*,*,*"
                                         RowDefinitions="*,*"
-                                        ColumnSpacing="2"
+                                        ColumnSpacing="1"
                                         x:Name="CheckItem">
+                                    
+
+                                    <Button 
+                                      Text=""
+                                      TextColor="White"
+                                      VerticalOptions="Center"
+                                      BackgroundColor="mediumturquoise"
+                                      ImageSource="dett.svg"
+                                      HorizontalOptions="Center"
+                                      HeightRequest="25"
+                                      WidthRequest="25"
+                                      Grid.Row="0" 
+                                      Grid.Column="0"                                        
+                                      Clicked="OnButtonDetailsClicked" />
+
 
                                     <Label Text="{Binding Data, StringFormat='{0:dd/MM/yyyy}'}"
                                             VerticalOptions="CenterAndExpand"
                                             TextColor="#4C9DE4"
-                                            FontSize="25"
+                                            FontSize="22"
                                             Grid.Row="0" 
-                                            Grid.Column="0"/>
+                                            Grid.Column="1"/>
 
                                     <CheckBox IsChecked ="{Binding Eseguito}"
                                           VerticalOptions="Center"
                                           Color="mediumturquoise"
                                           Grid.Row="0"
-                                          Grid.Column="1" />
+                                          Grid.Column="2" />
 
                                     <Label
                                           x:Name="CheckData"
                                           TextColor="mediumturquoise"
                                           LineBreakMode="WordWrap"
-                                          HorizontalOptions="StartAndExpand"
+                                          HorizontalOptions="CenterAndExpand"
                                           FontSize="18"
                                           Grid.Row="1"
                                           Grid.Column="0"
-                                          Grid.ColumnSpan="2">
+                                          Grid.ColumnSpan="3">
                                         <Label.FormattedText>
                                             <FormattedString>
                                                 <Span Text="{Binding Temperatura, StringFormat='T° {0}'}" TextColor="#2720E6"  />

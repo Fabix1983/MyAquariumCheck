@@ -835,3 +835,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatal
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\platy.jpg
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\ramirezi.jpg
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\scalare.jpg
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dett.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dett@2x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dett@3x.png

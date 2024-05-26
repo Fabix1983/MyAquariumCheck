@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyAquariumCheck.PopupPage"
+             xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
+             ios:Page.ModalPresentationStyle="OverFullScreen"
+             BackgroundColor="#aa000000"
+             BindingContext="{x:Reference ChecksCollection}"
+             Title="PopupPage">
+    <ScrollView>
+
+        <VerticalStackLayout Margin="5" Padding="10, 10, 10, 10" Spacing="5" x:Name="VLayoutListPage">
+            
+        <Grid>
+            <Label TextColor="White" x:Name="label1" Text="prova popup!!" />
+        </Grid>
+
+        <Grid>
+            <Label TextColor="White" x:Name="label0" Text="" />
+        </Grid>
+
+        <Grid>
+            <CollectionView Grid.Row="0"
+                    x:Name="ChecksCollection"
+                    ItemsSource="{Binding Checks}">
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+
+
+                        <Grid
+                                    Padding="2"
+                                    Margin="2,2"
+                                    ColumnDefinitions="*,*,*"
+                                    RowDefinitions="*,*"
+                                    ColumnSpacing="1"
+                                    x:Name="CheckItem">
+
+                            <Label Text="{Binding Data, StringFormat='{0:dd/MM/yyyy}'}"
+                                        VerticalOptions="CenterAndExpand"
+                                        TextColor="#4C9DE4"
+                                        FontSize="22"
+                                        Grid.Row="0" 
+                                        Grid.Column="1"/>
+
+                            <Label
+                                        x:Name="CheckData"
+                                        TextColor="mediumturquoise"
+                                        LineBreakMode="WordWrap"
+                                        HorizontalOptions="CenterAndExpand"
+                                        FontSize="18"
+                                        Grid.Row="1"
+                                        Grid.Column="0"
+                                        Grid.ColumnSpan="3">
+                                <Label.FormattedText>
+                                    <FormattedString>
+                                        <Span Text="{Binding Temperatura, StringFormat='T° {0}'}" TextColor="#2720E6"  />
+                                        <Span Text="{Binding PH, StringFormat=' PH {0}'}" TextColor="#2CCEE8" />
+                                        <Span Text="{Binding GH, StringFormat=' GH {0}'}" TextColor="#2CCEE8"/>
+                                        <Span Text="{Binding KH, StringFormat=' KH {0}'}" TextColor="#2CCEE8"/>
+                                        <Span Text="{Binding NO2, StringFormat=' No2 {0}'}" TextColor="#1476D5" />
+                                        <Span Text="{Binding NO3, StringFormat=' No3 {0}'}" TextColor="#1476D5" />
+                                    </FormattedString>
+                                </Label.FormattedText>
+                            </Label>
+
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Grid>
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>

@@ -48,6 +48,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.NewCheck.x
 build_metadata.AdditionalFiles.TargetPath = NewCheck.xaml
 build_metadata.AdditionalFiles.RelativePath = NewCheck.xaml
 
+[C:/Users/PC/Desktop/GitHub/MyAquariumCheck/PopupPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.PopupPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PopupPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PopupPage.xaml
+
 [C:/Users/PC/Desktop/GitHub/MyAquariumCheck/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MyAquariumCheck.Resources.Styles.Colors.xaml

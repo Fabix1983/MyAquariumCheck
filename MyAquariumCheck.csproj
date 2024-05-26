@@ -55,6 +55,7 @@
 	  <None Remove="Resources\Images\chart.svg" />
 	  <None Remove="Resources\Images\corydoras.jpg" />
 	  <None Remove="Resources\Images\del.svg" />
+	  <None Remove="Resources\Images\dett.svg" />
 	  <None Remove="Resources\Images\discus.jpg" />
 	  <None Remove="Resources\Images\guppy.jpg" />
 	  <None Remove="Resources\Images\home.svg" />
@@ -87,6 +88,9 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="NewCheck.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="PopupPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="TabPage.xaml">

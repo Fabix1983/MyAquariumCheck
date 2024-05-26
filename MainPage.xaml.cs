@@ -115,6 +115,48 @@ namespace MyAquariumCheck
                     pos++;
         }
 
+        private async void OnButtonDetailsClicked(object sender, EventArgs args)
+        {
+            var item = (sender as BindableObject).BindingContext as CheckItemVM;
+
+            try
+            {
+
+                CheckItem DettCheckItem = new CheckItem
+                {
+                    Id = item.Id,
+                    Data = item.Data,
+                    Temperatura = item.Temperatura,
+                    PH = item.PH,
+                    GH = item.GH,
+                    KH = item.KH,
+                    NO2 = item.NO2,
+                    NO3 = item.NO3,
+                    Eseguito = item.Eseguito,
+                };
+
+                int id = Convert.ToInt32(DettCheckItem.Id); 
+
+                if (id > 0)
+                {
+                    //DEBUG
+                    //await App.Current.MainPage.DisplayAlert("ID", id.ToString(), "OK");
+
+                    await Navigation.PushModalAsync(new PopupPage(id));
+                }
+                else
+                {
+                    await DisplayAlert("Errore", $"Controllo Non trovato...!", "KO");
+                }
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Errore", $"Attenzione si è verifcato un errore imprevisto...(ex:" + ex.Message + ")", "KO");
+            }
+
+
+        }
+
     }
 
 }
