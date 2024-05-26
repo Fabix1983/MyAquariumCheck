@@ -76,14 +76,23 @@
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\infoicon.scale-100.png">
       <PackagePath>infoicon.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\betta.scale-100.jpg">
-      <PackagePath>betta.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\corydoras.scale-100.jpg">
+      <PackagePath>corydoras.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ramirezi.scale-100.jpg">
-      <PackagePath>ramirezi.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-400.png">
+      <PackagePath>list.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
-      <PackagePath>logo.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-200.png">
+      <PackagePath>list.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-150.png">
+      <PackagePath>list.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-125.png">
+      <PackagePath>list.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-100.png">
+      <PackagePath>list.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\discus.scale-100.jpg">
       <PackagePath>discus.scale-100.jpg</PackagePath>
@@ -232,59 +241,29 @@
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\platy.scale-100.jpg">
       <PackagePath>platy.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo.scale-100.png">
+      <PackagePath>logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\betta.scale-100.jpg">
+      <PackagePath>betta.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\ramirezi.scale-100.jpg">
+      <PackagePath>ramirezi.scale-100.jpg</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\neon.scale-100.jpg">
       <PackagePath>neon.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\guppy.scale-100.jpg">
       <PackagePath>guppy.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-400.png">
-      <PackagePath>list.scale-400.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\scalare.scale-100.jpg">
+      <PackagePath>scalare.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-200.png">
-      <PackagePath>list.scale-200.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\oranda.scale-100.jpg">
+      <PackagePath>oranda.scale-100.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-150.png">
-      <PackagePath>list.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-125.png">
-      <PackagePath>list.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\list.scale-100.png">
-      <PackagePath>list.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\corydoras.scale-100.jpg">
-      <PackagePath>corydoras.scale-100.jpg</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-400.png">
-      <PackagePath>dett.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-200.png">
-      <PackagePath>dett.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-150.png">
-      <PackagePath>dett.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-125.png">
-      <PackagePath>dett.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-100.png">
-      <PackagePath>dett.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-400.png">
-      <PackagePath>add.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-200.png">
-      <PackagePath>add.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-150.png">
-      <PackagePath>add.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-125.png">
-      <PackagePath>add.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png">
-      <PackagePath>add.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-100.png">
+      <PackagePath>info.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\del.scale-400.png">
       <PackagePath>del.scale-400.png</PackagePath>
@@ -316,14 +295,35 @@
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\chart.scale-100.png">
       <PackagePath>chart.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\scalare.scale-100.jpg">
-      <PackagePath>scalare.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-400.png">
+      <PackagePath>dett.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\oranda.scale-100.jpg">
-      <PackagePath>oranda.scale-100.jpg</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-200.png">
+      <PackagePath>dett.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\info.scale-100.png">
-      <PackagePath>info.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-150.png">
+      <PackagePath>dett.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-125.png">
+      <PackagePath>dett.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dett.scale-100.png">
+      <PackagePath>dett.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\canc.scale-400.png">
+      <PackagePath>canc.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\canc.scale-200.png">
+      <PackagePath>canc.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\canc.scale-150.png">
+      <PackagePath>canc.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\canc.scale-125.png">
+      <PackagePath>canc.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\canc.scale-100.png">
+      <PackagePath>canc.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\home.scale-400.png">
       <PackagePath>home.scale-400.png</PackagePath>
@@ -355,6 +355,21 @@
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-400.png">
+      <PackagePath>add.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-200.png">
+      <PackagePath>add.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-150.png">
+      <PackagePath>add.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-125.png">
+      <PackagePath>add.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\add.scale-100.png">
+      <PackagePath>add.scale-100.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MyAquariumCheck.deps.json">
       <PackagePath>MyAquariumCheck.deps.json</PackagePath>
     </AppxPackagedFile>
@@ -363,6 +378,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microcharts.maui\1.0.0\lib\net6.0-windows10.0.19041\Microcharts.Maui.dll">
+      <PackagePath>Microcharts.Maui.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -415,6 +433,9 @@
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.3\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.win32.systemevents\4.7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll">
+      <PackagePath>Microsoft.Win32.SystemEvents.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
     </AppxPackagedFile>
@@ -460,6 +481,39 @@
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Release.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Release.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\opentk\3.1.0\lib\net20\OpenTK.dll">
+      <PackagePath>OpenTK.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\opentk.glcontrol\3.1.0\lib\net20\OpenTK.GLControl.dll">
+      <PackagePath>OpenTK.GLControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp\2.88.8\lib\net6.0\SkiaSharp.dll">
+      <PackagePath>SkiaSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views\2.88.8\lib\net462\SkiaSharp.Views.Desktop.dll">
+      <PackagePath>SkiaSharp.Views.Desktop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.desktop.common\2.88.8\lib\netcoreapp3.1\SkiaSharp.Views.Desktop.Common.dll">
+      <PackagePath>SkiaSharp.Views.Desktop.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.gtk2\2.88.8\lib\net462\SkiaSharp.Views.Gtk.dll">
+      <PackagePath>SkiaSharp.Views.Gtk.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.maui.controls\2.88.3\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Controls.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.maui.core\2.88.3\lib\net6.0-windows10.0.18362.0\SkiaSharp.Views.Maui.Core.dll">
+      <PackagePath>SkiaSharp.Views.Maui.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.windowsforms\2.88.8\lib\netcoreapp3.1\SkiaSharp.Views.WindowsForms.dll">
+      <PackagePath>SkiaSharp.Views.WindowsForms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.winui\2.88.3\lib\net6.0-windows10.0.19041.0\SkiaSharp.Views.Windows.dll">
+      <PackagePath>SkiaSharp.Views.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.views.wpf\2.88.8\lib\netcoreapp3.1\SkiaSharp.Views.WPF.dll">
+      <PackagePath>SkiaSharp.Views.WPF.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\sqlite-net-pcl\1.9.172\lib\netstandard2.0\SQLite-net.dll">
       <PackagePath>SQLite-net.dll</PackagePath>
     </AppxPackagedFile>
@@ -474,6 +528,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.2\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
       <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\system.drawing.common\4.7.3\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll">
+      <PackagePath>System.Drawing.Common.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.maui.controls.core\8.0.3\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
@@ -582,6 +639,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\microsoft.windowsappsdk\1.3.230724000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\skiasharp.nativeassets.win32\2.88.8\runtimes\win-x64\native\libSkiaSharp.dll">
+      <PackagePath>libSkiaSharp.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PC\.nuget\packages\sqlitepclraw.lib.e_sqlcipher\2.1.2\runtimes\win-x64\native\e_sqlcipher.dll">
       <PackagePath>e_sqlcipher.dll</PackagePath>

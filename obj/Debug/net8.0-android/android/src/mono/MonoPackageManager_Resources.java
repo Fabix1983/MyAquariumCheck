@@ -4,6 +4,7 @@ public class MonoPackageManager_Resources {
 		/* We need to ensure that "MyAquariumCheck.dll" comes first in this list. */
 		"MyAquariumCheck.dll",
 		"GoogleGson.dll",
+		"Microcharts.Maui.dll",
 		"Microsoft.Extensions.Configuration.dll",
 		"Microsoft.Extensions.Configuration.Abstractions.dll",
 		"Microsoft.Extensions.DependencyInjection.dll",
@@ -19,6 +20,10 @@ public class MonoPackageManager_Resources {
 		"Microsoft.Maui.dll",
 		"Microsoft.Maui.Essentials.dll",
 		"Microsoft.Maui.Graphics.dll",
+		"SkiaSharp.dll",
+		"SkiaSharp.Views.Android.dll",
+		"SkiaSharp.Views.Maui.Controls.dll",
+		"SkiaSharp.Views.Maui.Core.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_v2.dll",
 		"SQLitePCLRaw.core.dll",

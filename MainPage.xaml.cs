@@ -7,7 +7,6 @@ namespace MyAquariumCheck
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
         readonly DataBase database;
         public ObservableCollection<CheckItemVM> Checks { get; set; } = new();
 

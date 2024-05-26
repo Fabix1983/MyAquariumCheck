@@ -592,7 +592,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet-nativeaot.a
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.a
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\libxamarin-dotnet.dylib
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -678,3 +677,15 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dett@3x.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dett@2x.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dett.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\Microcharts.Maui.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\SkiaSharp.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\SkiaSharp.Views.iOS.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Controls.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\SkiaSharp.Views.Maui.Core.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\Info.plist
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\CodeResources
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\libSkiaSharp
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\canc@3x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\canc@2x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\canc.png

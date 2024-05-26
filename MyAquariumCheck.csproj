@@ -52,6 +52,7 @@
 	<ItemGroup>
 	  <None Remove="Resources\Images\add.svg" />
 	  <None Remove="Resources\Images\betta.jpg" />
+	  <None Remove="Resources\Images\canc.svg" />
 	  <None Remove="Resources\Images\chart.svg" />
 	  <None Remove="Resources\Images\corydoras.jpg" />
 	  <None Remove="Resources\Images\del.svg" />
@@ -72,7 +73,10 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<PackageReference Include="Microcharts.Maui" Version="1.0.0" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
+		<PackageReference Include="SkiaSharp" Version="2.88.8" />
+		<PackageReference Include="SkiaSharp.Views" Version="2.88.8" />
 		<PackageReference Include="sqlite-net-pcl" Version="1.9.172" />
 		<PackageReference Include="sqlite-net-sqlcipher" Version="1.9.172" />
 	</ItemGroup>

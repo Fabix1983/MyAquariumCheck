@@ -1,74 +1,65 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:micro="clr-namespace:Microcharts.Maui;assembly=Microcharts.Maui"
              x:Class="MyAquariumCheck.PopupPage"
              xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
              ios:Page.ModalPresentationStyle="OverFullScreen"
-             BackgroundColor="#aa000000"
              BindingContext="{x:Reference ChecksCollection}"
+             BackgroundImageSource="sea.png"
              Title="PopupPage">
     <ScrollView>
 
         <VerticalStackLayout Margin="5" Padding="10, 10, 10, 10" Spacing="5" x:Name="VLayoutListPage">
+            <Grid 
+                Padding="3"
+                Margin="1,1"
+                ColumnDefinitions="*,*"
+                RowDefinitions="auto"
+                ColumnSpacing="0"
+                RowSpacing="0"
+                x:Name="Grid1">
+
+                <Label x:Name="labelBar" Text="Bar Chart" FontSize="25" HorizontalOptions="Center" TextColor="White" />
+
+                <Button 
+                    Text=""
+                    TextColor="White"
+                    VerticalOptions="Center"
+                    BackgroundColor="mediumturquoise"
+                    ImageSource="canc.svg"
+                    HorizontalOptions="End"
+                    HeightRequest="25"
+                    WidthRequest="25"
+                    Grid.Row="0" 
+                    Grid.Column="1"                                        
+                    Clicked="OnButtonCloseClicked" />
+            </Grid>
             
-        <Grid>
-            <Label TextColor="White" x:Name="label1" Text="prova popup!!" />
-        </Grid>
+            
+            <micro:ChartView x:Name="chartView" HeightRequest="300" WidthRequest="300" />
 
-        <Grid>
-            <Label TextColor="White" x:Name="label0" Text="" />
-        </Grid>
+            <Rectangle Fill="mediumturquoise" />
 
-        <Grid>
-            <CollectionView Grid.Row="0"
-                    x:Name="ChecksCollection"
-                    ItemsSource="{Binding Checks}">
+            <Grid 
+                Padding="3"
+                Margin="1,1"
+                ColumnDefinitions="*,*"
+                RowDefinitions="auto"
+                ColumnSpacing="0"
+                RowSpacing="0"
+                x:Name="Grid2">
 
-                <CollectionView.ItemTemplate>
-                    <DataTemplate>
+                <Label x:Name="labelRadar" Text="Radar" FontSize="25" HorizontalOptions="Center" TextColor="White" />
 
+                <Label x:Name="labelRadarEmpty" Text="" />
+            </Grid>
+       
+            <micro:ChartView x:Name="chartView1" HeightRequest="300" WidthRequest="300"  />
 
-                        <Grid
-                                    Padding="2"
-                                    Margin="2,2"
-                                    ColumnDefinitions="*,*,*"
-                                    RowDefinitions="*,*"
-                                    ColumnSpacing="1"
-                                    x:Name="CheckItem">
+            <Rectangle Fill="mediumturquoise" />
 
-                            <Label Text="{Binding Data, StringFormat='{0:dd/MM/yyyy}'}"
-                                        VerticalOptions="CenterAndExpand"
-                                        TextColor="#4C9DE4"
-                                        FontSize="22"
-                                        Grid.Row="0" 
-                                        Grid.Column="1"/>
-
-                            <Label
-                                        x:Name="CheckData"
-                                        TextColor="mediumturquoise"
-                                        LineBreakMode="WordWrap"
-                                        HorizontalOptions="CenterAndExpand"
-                                        FontSize="18"
-                                        Grid.Row="1"
-                                        Grid.Column="0"
-                                        Grid.ColumnSpan="3">
-                                <Label.FormattedText>
-                                    <FormattedString>
-                                        <Span Text="{Binding Temperatura, StringFormat='T° {0}'}" TextColor="#2720E6"  />
-                                        <Span Text="{Binding PH, StringFormat=' PH {0}'}" TextColor="#2CCEE8" />
-                                        <Span Text="{Binding GH, StringFormat=' GH {0}'}" TextColor="#2CCEE8"/>
-                                        <Span Text="{Binding KH, StringFormat=' KH {0}'}" TextColor="#2CCEE8"/>
-                                        <Span Text="{Binding NO2, StringFormat=' No2 {0}'}" TextColor="#1476D5" />
-                                        <Span Text="{Binding NO3, StringFormat=' No3 {0}'}" TextColor="#1476D5" />
-                                    </FormattedString>
-                                </Label.FormattedText>
-                            </Label>
-
-                        </Grid>
-                    </DataTemplate>
-                </CollectionView.ItemTemplate>
-            </CollectionView>
-        </Grid>
+            <Label x:Name="data" Text="" FontSize="25" HorizontalOptions="Center" TextColor="White" />
 
         </VerticalStackLayout>
 

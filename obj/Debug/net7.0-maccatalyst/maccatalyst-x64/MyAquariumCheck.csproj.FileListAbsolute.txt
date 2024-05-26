@@ -838,3 +838,12 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatal
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dett.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dett@2x.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dett@3x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microcharts.Maui.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\SkiaSharp.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\SkiaSharp.Views.iOS.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\SkiaSharp.Views.Maui.Controls.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\SkiaSharp.Views.Maui.Core.dll
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSkiaSharp.framework.zip
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\canc.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\canc@2x.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\canc@3x.png

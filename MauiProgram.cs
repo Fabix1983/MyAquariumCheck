@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using Microcharts.Maui;
 
 namespace MyAquariumCheck
 {
@@ -9,6 +10,7 @@ namespace MyAquariumCheck
             var builder = MauiApp.CreateBuilder();
             builder
                 .UseMauiApp<App>()
+                .UseMicrocharts()
                 .ConfigureFonts(fonts =>
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");

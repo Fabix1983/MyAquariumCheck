@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "xYgcdDydpos08E452mKWnP+nzLaBUUFbLVWJNwAH99sTulyBwGgdceRxHjXgwoSKQ/szagMKsKNAZApnVysDJg==",
+  "dgSpecHash": "n1n7S7EMNnZX3vYIGAtF+botdH3HzFOus/w1N7JVjTrUHyffETLB+cxRX3O0Tc4YiBTWyookof9V1ly+vpC30A==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Desktop\\GitHub\\MyAquariumCheck\\MyAquariumCheck.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microcharts.maui\\1.0.0\\microcharts.maui.1.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -37,8 +38,26 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22621.756\\microsoft.windows.sdk.buildtools.10.0.22621.756.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsappsdk\\1.3.230724000\\microsoft.windowsappsdk.1.3.230724000.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\opentk.glcontrol\\3.1.0\\opentk.glcontrol.3.1.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp\\2.88.8\\skiasharp.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.android\\2.88.8\\skiasharp.nativeassets.android.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.ios\\2.88.8\\skiasharp.nativeassets.ios.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.maccatalyst\\2.88.8\\skiasharp.nativeassets.maccatalyst.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.8\\skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.8\\skiasharp.nativeassets.win32.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views\\2.88.8\\skiasharp.views.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.desktop.common\\2.88.8\\skiasharp.views.desktop.common.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.gtk2\\2.88.8\\skiasharp.views.gtk2.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.maui.controls\\2.88.3\\skiasharp.views.maui.controls.2.88.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.maui.core\\2.88.3\\skiasharp.views.maui.core.2.88.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.windowsforms\\2.88.8\\skiasharp.views.windowsforms.2.88.8.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.winui\\2.88.3\\skiasharp.views.winui.2.88.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\skiasharp.views.wpf\\2.88.8\\skiasharp.views.wpf.2.88.8.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlite-net-pcl\\1.9.172\\sqlite-net-pcl.1.9.172.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlite-net-sqlcipher\\1.9.172\\sqlite-net-sqlcipher.1.9.172.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlcipher\\2.1.2\\sqlitepclraw.bundle_e_sqlcipher.2.1.2.nupkg.sha512",
@@ -54,6 +73,7 @@
     "C:\\Users\\PC\\.nuget\\packages\\sqlitepclraw.provider.internal\\2.1.2\\sqlitepclraw.provider.internal.2.1.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\sqlitepclraw.provider.sqlite3\\2.1.2\\sqlitepclraw.provider.sqlite3.2.1.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.runtime.interopservices.nfloat.internal\\6.0.1\\system.runtime.interopservices.nfloat.internal.6.0.1.nupkg.sha512",
@@ -150,5 +170,46 @@
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.maui.essentials.runtime.maccatalyst\\7.0.101\\microsoft.maui.essentials.runtime.maccatalyst.7.0.101.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'OpenTK 3.1.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0-windows10.0.19041'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'OpenTK.GLControl 3.1.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0-windows10.0.19041'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'SkiaSharp.Views 2.88.8' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0-windows10.0.19041'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "SkiaSharp.Views",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Il pacchetto 'SkiaSharp.Views.Gtk2 2.88.8' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net8.0-windows10.0.19041'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
+      "libraryId": "SkiaSharp.Views.Gtk2",
+      "targetGraphs": [
+        "net8.0-windows10.0.19041"
+      ]
+    }
+  ]
 }
