@@ -64,7 +64,7 @@
             HorizontalOptions="Center" />
 
         <Label
-                Text="Versione 1.0.1"
+                Text="Versione 1.0.5"
                 SemanticProperties.HeadingLevel="Level1"
                 FontSize="12"
                 TextColor="White"
