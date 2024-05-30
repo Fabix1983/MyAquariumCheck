@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:micro="clr-namespace:Microcharts.Maui;assembly=Microcharts.Maui"
              x:Class="MyAquariumCheck.ChartPage"
+             xmlns:ios="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.iOSSpecific;assembly=Microsoft.Maui.Controls"
+             ios:Page.ModalPresentationStyle="OverFullScreen"
              BackgroundImageSource="sea.png"
              Title="ChartPage">
     
@@ -41,6 +44,31 @@
 
             <Rectangle Fill="mediumturquoise" />
 
+            <Frame 
+                BorderColor="Gray"
+                CornerRadius="5"
+                Padding="8">
+                <StackLayout>
+
+                    <Label x:Name="labelBarPH" Text="PH Chart" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+
+                    <micro:ChartView x:Name="chartViewPH" HeightRequest="300" WidthRequest="300" />
+
+                </StackLayout>
+            </Frame>
+
+            <Frame 
+                BorderColor="Gray"
+                CornerRadius="5"
+                Padding="8">
+                <StackLayout>
+
+                    <Label x:Name="labelBarGH" Text="GH Chart" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+
+                    <micro:ChartView x:Name="chartViewGH" HeightRequest="300" WidthRequest="300" />
+
+                </StackLayout>
+            </Frame>
 
         </VerticalStackLayout>
         

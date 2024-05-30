@@ -2183,7 +2183,6 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\asse
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\SkiaSharp.Views.Maui.Controls.pdb
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\SkiaSharp.Views.Maui.Core.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\SkiaSharp.Views.Maui.Core.pdb
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\src\crc648e35430423bd4943\GLTextureView.java
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\src\crc648e35430423bd4943\GLTextureView_LogWriter.java
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\src\crc648e35430423bd4943\SKCanvasView.java
@@ -2199,3 +2198,4 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xhdpi\canc.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xxhdpi\canc.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\resizetizer\r\drawable-xxxhdpi\canc.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

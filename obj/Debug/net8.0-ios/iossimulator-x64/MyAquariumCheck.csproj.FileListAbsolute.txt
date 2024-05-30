@@ -685,7 +685,7 @@ C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\Info.plist
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\CodeResources
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\bin\Debug\net8.0-ios\iossimulator-x64\libSkiaSharp
-C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\canc@3x.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\canc@2x.png
 C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\canc.png
+C:\Users\PC\Desktop\GitHub\MyAquariumCheck\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature

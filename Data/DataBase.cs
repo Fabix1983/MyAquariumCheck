@@ -39,6 +39,10 @@ namespace MyAquariumCheck.Data
         {
             return await connessione.Table<CheckItem>().OrderByDescending(t => t.Data).ToListAsync();
         }
+        public async Task<List<CheckItem>> LeggiCheckItemNoDesc()
+        {
+            return await connessione.Table<CheckItem>().OrderBy(t => t.Data).ToListAsync();
+        }
 
         public async Task<List<CheckItem>> LeggiCheckItemID(long idrecord)
         {
@@ -48,6 +52,11 @@ namespace MyAquariumCheck.Data
         public async Task<int> EliminaCheckItem(CheckItem daEliminare)
         {
             return await connessione.DeleteAsync(daEliminare);
+        }
+
+        public async Task<int> CountCheckItem()
+        {   
+            return await connessione.Table<CheckItem>().CountAsync();
         }
     }
 }

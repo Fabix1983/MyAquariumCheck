@@ -7,7 +7,9 @@
              BarBackgroundColor="mediumturquoise"
              BarTextColor="White"
              SelectedTabColor="White"
-             UnselectedTabColor="Black">
+             UnselectedTabColor="Black"
+             xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
+             android:TabbedPage.ToolbarPlacement="Bottom">
     
     <local:MainPage Title="Home" IconImageSource="home.svg">
     </local:MainPage>

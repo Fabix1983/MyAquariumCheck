@@ -46,7 +46,7 @@ public partial class PopupPage : ContentPage
         }
 
         entries = new[]
-{
+        {
             new ChartEntry((float)Checks[0].PH)
             {
                 Label = "PH",
