@@ -28,6 +28,7 @@ public partial class ChartPage : ContentPage
         itemnum = await database.CountCheckItem();
 
         int i = 0;
+        int y = 0;
         ChartEntry[] entriesPH = new ChartEntry[itemnum];
         ChartEntry[] entriesGH = new ChartEntry[itemnum];
         ChartEntry[] entriesKH = new ChartEntry[itemnum];
@@ -36,6 +37,7 @@ public partial class ChartPage : ContentPage
 
         foreach (var item in await database.LeggiCheckItemNoDesc())
         {
+            y = y + 1;
             Checks.Add(new CheckItemVM
             {
                 Id = item.Id,
@@ -49,72 +51,77 @@ public partial class ChartPage : ContentPage
                 Eseguito = item.Eseguito,
             });
 
-            entriesPH[i] =
-            new ChartEntry((float)Checks[i].PH)
-            {
-                Label = Checks[i].Data.ToString().Substring(0, 9),
-                ValueLabel = Checks[i].PH.ToString(),
-                Color = SKColor.Parse("#2c3e50")
-            };
+            if (y > 0) { 
+                entriesPH[i] =
+                new ChartEntry((float)Checks[i].PH)
+                {
+                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    ValueLabel = Checks[i].PH.ToString(),
+                    Color = SKColor.Parse("#2c3e50")
+                };
 
-            entriesGH[i] =
-            new ChartEntry((float)Checks[i].GH)
-            {
-                Label = Checks[i].Data.ToString().Substring(0, 9),
-                ValueLabel = Checks[i].GH.ToString(),
-                Color = SKColor.Parse("#77d065")
-            };
+                entriesGH[i] =
+                new ChartEntry((float)Checks[i].GH)
+                {
+                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    ValueLabel = Checks[i].GH.ToString(),
+                    Color = SKColor.Parse("#77d065")
+                };
 
-            entriesKH[i] =
-            new ChartEntry((float)Checks[i].KH)
-            {
-                Label = Checks[i].Data.ToString().Substring(0, 9),
-                ValueLabel = Checks[i].KH.ToString(),
-                Color = SKColor.Parse("#b455b6")
-            };
+                entriesKH[i] =
+                new ChartEntry((float)Checks[i].KH)
+                {
+                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    ValueLabel = Checks[i].KH.ToString(),
+                    Color = SKColor.Parse("#b455b6")
+                };
 
-            entriesNo2[i] =
-            new ChartEntry((float)Checks[i].NO2)
-            {
-                Label = Checks[i].Data.ToString().Substring(0, 9),
-                ValueLabel = Checks[i].NO2.ToString(),
-                Color = SKColor.Parse("#3498db")
-            };
+                entriesNo2[i] =
+                new ChartEntry((float)Checks[i].NO2)
+                {
+                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    ValueLabel = Checks[i].NO2.ToString(),
+                    Color = SKColor.Parse("#3498db")
+                };
 
-            entriesNo3[i] =
-            new ChartEntry((float)Checks[i].NO3)
-            {
-                Label = Checks[i].Data.ToString().Substring(0, 9),
-                ValueLabel = Checks[i].NO3.ToString(),
-                Color = SKColor.Parse("#e9967a")
-            };
+                entriesNo3[i] =
+                new ChartEntry((float)Checks[i].NO3)
+                {
+                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    ValueLabel = Checks[i].NO3.ToString(),
+                    Color = SKColor.Parse("#e9967a")
+                };
+            }
 
             i++;
         }
 
-        chartViewPH.Chart = new BarChart
+        if (y > 0)
         {
-            Entries = entriesPH
-        };
+            chartViewPH.Chart = new BarChart
+            {
+                Entries = entriesPH
+            };
 
-        chartViewGH.Chart = new BarChart
-        {
-            Entries = entriesGH
-        };
+            chartViewGH.Chart = new BarChart
+            {
+                Entries = entriesGH
+            };
 
-        chartViewKH.Chart = new BarChart
-        {
-            Entries = entriesKH
-        };
+            chartViewKH.Chart = new BarChart
+            {
+                Entries = entriesKH
+            };
 
-        chartViewNo2.Chart = new LineChart
-        {
-            Entries = entriesNo2
-        };
+            chartViewNo2.Chart = new LineChart
+            {
+                Entries = entriesNo2
+            };
 
-        chartViewNo3.Chart = new LineChart
-        {
-            Entries = entriesNo3
-        };
+            chartViewNo3.Chart = new LineChart
+            {
+                Entries = entriesNo3
+            };
+        }
     }
 }
