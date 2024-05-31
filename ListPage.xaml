@@ -44,7 +44,7 @@
             <CarouselView x:Name="ListView" IndicatorView="indicatorView">
                 <CarouselView.ItemTemplate>
                     <DataTemplate>
-                        <VerticalStackLayout Margin="5" Padding="5, 5, 5, 5" Spacing="5">
+                        <VerticalStackLayout Margin="5" Padding="1, 1, 1, 1" Spacing="2">
                             <Label FontAttributes="Bold" FontSize="25" TextColor="White" HorizontalTextAlignment="Center" Text="{Binding Nome}" />
                             <Image
                                 Source="{Binding imgname}"

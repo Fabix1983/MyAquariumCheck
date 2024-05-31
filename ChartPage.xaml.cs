@@ -65,6 +65,30 @@ public partial class ChartPage : ContentPage
                 Color = SKColor.Parse("#77d065")
             };
 
+            entriesKH[i] =
+            new ChartEntry((float)Checks[i].KH)
+            {
+                Label = Checks[i].Data.ToString().Substring(0, 9),
+                ValueLabel = Checks[i].KH.ToString(),
+                Color = SKColor.Parse("#b455b6")
+            };
+
+            entriesNo2[i] =
+            new ChartEntry((float)Checks[i].NO2)
+            {
+                Label = Checks[i].Data.ToString().Substring(0, 9),
+                ValueLabel = Checks[i].NO2.ToString(),
+                Color = SKColor.Parse("#3498db")
+            };
+
+            entriesNo3[i] =
+            new ChartEntry((float)Checks[i].NO3)
+            {
+                Label = Checks[i].Data.ToString().Substring(0, 9),
+                ValueLabel = Checks[i].NO3.ToString(),
+                Color = SKColor.Parse("#e9967a")
+            };
+
             i++;
         }
 
@@ -76,6 +100,21 @@ public partial class ChartPage : ContentPage
         chartViewGH.Chart = new BarChart
         {
             Entries = entriesGH
+        };
+
+        chartViewKH.Chart = new BarChart
+        {
+            Entries = entriesKH
+        };
+
+        chartViewNo2.Chart = new LineChart
+        {
+            Entries = entriesNo2
+        };
+
+        chartViewNo3.Chart = new LineChart
+        {
+            Entries = entriesNo3
         };
     }
 }

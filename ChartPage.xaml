@@ -50,12 +50,14 @@
                 Padding="8">
                 <StackLayout>
 
-                    <Label x:Name="labelBarPH" Text="PH Chart" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+                    <Label x:Name="labelBarPH" Text="PH" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
 
                     <micro:ChartView x:Name="chartViewPH" HeightRequest="300" WidthRequest="300" />
 
                 </StackLayout>
             </Frame>
+
+            <Rectangle Fill="mediumturquoise" />
 
             <Frame 
                 BorderColor="Gray"
@@ -63,9 +65,54 @@
                 Padding="8">
                 <StackLayout>
 
-                    <Label x:Name="labelBarGH" Text="GH Chart" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+                    <Label x:Name="labelBarGH" Text="GH" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
 
                     <micro:ChartView x:Name="chartViewGH" HeightRequest="300" WidthRequest="300" />
+
+                </StackLayout>
+            </Frame>
+
+            <Rectangle Fill="mediumturquoise" />
+
+            <Frame 
+                BorderColor="Gray"
+                CornerRadius="5"
+                Padding="8">
+                <StackLayout>
+
+                    <Label x:Name="labelBarKH" Text="KH" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+
+                    <micro:ChartView x:Name="chartViewKH" HeightRequest="300" WidthRequest="300" />
+
+                </StackLayout>
+            </Frame>
+
+            <Rectangle Fill="mediumturquoise" />
+
+            <Frame 
+                BorderColor="Gray"
+                CornerRadius="5"
+                Padding="8">
+                <StackLayout>
+
+                    <Label x:Name="labelBarNo2" Text="No2" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+
+                    <micro:ChartView x:Name="chartViewNo2" HeightRequest="300" WidthRequest="300" />
+
+                </StackLayout>
+            </Frame>
+
+            <Rectangle Fill="mediumturquoise" />
+
+            <Frame 
+                BorderColor="Gray"
+                CornerRadius="5"
+                Padding="8">
+                <StackLayout>
+
+                    <Label x:Name="labelBarNo3" Text="No3" FontSize="25" HorizontalOptions="Center" TextColor="mediumturquoise" />
+
+                    <micro:ChartView x:Name="chartViewNo3" HeightRequest="300" WidthRequest="300" />
 
                 </StackLayout>
             </Frame>
