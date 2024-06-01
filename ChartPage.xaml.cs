@@ -57,7 +57,7 @@ public partial class ChartPage : ContentPage
                 {
                     Label = Checks[i].Data.ToString().Substring(0, 9),
                     ValueLabel = Checks[i].PH.ToString(),
-                    Color = SKColor.Parse("#2c3e50")
+                    Color = SKColor.Parse("#1A7CA6"),
                 };
 
                 entriesGH[i] =
@@ -100,27 +100,37 @@ public partial class ChartPage : ContentPage
         {
             chartViewPH.Chart = new BarChart
             {
-                Entries = entriesPH
+                Entries = entriesPH,
+                LabelTextSize = 25,
+                ValueLabelTextSize = 25
             };
 
             chartViewGH.Chart = new BarChart
             {
-                Entries = entriesGH
+                Entries = entriesGH,
+                LabelTextSize = 25,
+                ValueLabelTextSize = 25
             };
 
             chartViewKH.Chart = new BarChart
             {
-                Entries = entriesKH
+                Entries = entriesKH,
+                LabelTextSize = 25,
+                ValueLabelTextSize = 25
             };
 
             chartViewNo2.Chart = new LineChart
             {
-                Entries = entriesNo2
+                Entries = entriesNo2,
+                LabelTextSize = 25,
+                ValueLabelTextSize = 25
             };
 
             chartViewNo3.Chart = new LineChart
             {
-                Entries = entriesNo3
+                Entries = entriesNo3,
+                LabelTextSize = 25,
+                ValueLabelTextSize = 25
             };
         }
     }

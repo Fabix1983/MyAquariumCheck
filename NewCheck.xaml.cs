@@ -114,6 +114,7 @@ public partial class NewCheck : ContentPage
             return;
         }
 
+        /*
         if (DateTime.Parse(formatted) < DateTime.Now)
         {
             await App.Current.MainPage.DisplayAlert("Data non valida",
@@ -121,6 +122,7 @@ public partial class NewCheck : ContentPage
 
             return;
         }
+        */
 
         CheckItem nuovoCheckItem = new CheckItem
         {

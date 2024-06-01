@@ -140,13 +140,14 @@
             <Entry 
                 HorizontalOptions="Center"
                 Placeholder="PH"
+                PlaceholderColor="White"
                 SemanticProperties.Hint="PH"
                 WidthRequest="30"
-                TextColor="Black"
+                TextColor="White"
+                BackgroundColor="mediumturquoise"
                 MaxLength="5"
                 Keyboard="Numeric"
                 x:Name="PH_TXT" 
-                BackgroundColor="White"
                 Grid.Row="0" 
                 Grid.Column="0"
                 TextChanged="OnPHValueCanged"
@@ -155,13 +156,14 @@
             <Entry 
                 HorizontalOptions="Center"
                 Placeholder="KH"
+                PlaceholderColor="White"
                 SemanticProperties.Hint="KH"
                 WidthRequest="30"
-                TextColor="Black"
+                TextColor="White"
+                BackgroundColor="mediumturquoise"
                 MaxLength="5"
                 Keyboard="Numeric"
                 x:Name="KH_TXT" 
-                BackgroundColor="White"
                 Grid.Row="0" 
                 Grid.Column="1"
                 TextChanged="OnKHValueCanged"/>
@@ -169,12 +171,13 @@
             <Entry 
                 HorizontalOptions="Center"
                 Placeholder="GH"
+                PlaceholderColor="White"
                 SemanticProperties.Hint="GH"
                 WidthRequest="30"
-                TextColor="Black"
+                TextColor="White"
+                BackgroundColor="mediumturquoise"
                 MaxLength="5"
                 Keyboard="Numeric"
-                BackgroundColor="White"
                 x:Name="GH_TXT"
                 Grid.Row="0" 
                 Grid.Column="2"
@@ -191,12 +194,13 @@
             <Entry 
                 HorizontalOptions="Center"
                 Placeholder="No2"
+                PlaceholderColor="White"
                 SemanticProperties.Hint="No2"
                 WidthRequest="40"
-                TextColor="Black"
+                TextColor="White"
+                BackgroundColor="mediumturquoise"
                 MaxLength="5"
                 Keyboard="Numeric"
-                BackgroundColor="White"
                 x:Name="No2_TXT" 
                 Grid.Row="0" 
                 Grid.Column="0"
@@ -205,17 +209,20 @@
             <Entry 
                 HorizontalOptions="Center"
                 Placeholder="No3"
+                PlaceholderColor="White"
                 SemanticProperties.Hint="No3"
                 WidthRequest="40"
-                TextColor="Black"
+                TextColor="White"
+                BackgroundColor="mediumturquoise"
                 MaxLength="5"
                 Keyboard="Numeric"
-                BackgroundColor="White"
                 x:Name="No3_TXT" 
                 Grid.Row="0" 
                 Grid.Column="1"
                 TextChanged="OnNo3ValueCanged"/>
         </Grid>
+
+        <Rectangle Fill="mediumturquoise" />
 
         <Button
                 x:Name="InsBtn"

@@ -85,8 +85,8 @@
                                       BackgroundColor="mediumturquoise"
                                       ImageSource="dett.svg"
                                       HorizontalOptions="Center"
-                                      HeightRequest="25"
-                                      WidthRequest="25"
+                                      HeightRequest="30"
+                                      WidthRequest="30"
                                       Grid.Row="0" 
                                       Grid.Column="0"                                        
                                       Clicked="OnButtonDetailsClicked" />
@@ -94,7 +94,7 @@
 
                                     <Label Text="{Binding Data, StringFormat='{0:dd/MM/yyyy}'}"
                                             VerticalOptions="CenterAndExpand"
-                                            TextColor="#4C9DE4"
+                                            TextColor="White"
                                             FontSize="22"
                                             Grid.Row="0" 
                                             Grid.Column="1"/>
@@ -116,7 +116,7 @@
                                           Grid.ColumnSpan="3">
                                         <Label.FormattedText>
                                             <FormattedString>
-                                                <Span Text="{Binding Temperatura, StringFormat='T° {0}'}" TextColor="#2720E6"  />
+                                                <Span Text="{Binding Temperatura, StringFormat='T° {0}'}" TextColor="#1476D5"  />
                                                 <Span Text="{Binding PH, StringFormat=' PH {0}'}" TextColor="#2CCEE8" />
                                                 <Span Text="{Binding GH, StringFormat=' GH {0}'}" TextColor="#2CCEE8"/>
                                                 <Span Text="{Binding KH, StringFormat=' KH {0}'}" TextColor="#2CCEE8"/>
@@ -134,6 +134,8 @@
 
             </Grid>
 
+            <Rectangle Fill="mediumturquoise" />
+
             <Button 
                       Text="Elimina Fatti"
                       VerticalOptions="Center"
@@ -141,8 +143,7 @@
                       HorizontalOptions="Center"
                       Clicked="OnButtonEliminaCheckClicked" />
 
-            <Rectangle Fill="mediumturquoise" />
-
+            
         </VerticalStackLayout>
 
     </ScrollView>

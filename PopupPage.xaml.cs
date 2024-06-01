@@ -51,7 +51,7 @@ public partial class PopupPage : ContentPage
             {
                 Label = "PH",
                 ValueLabel = Checks[0].PH.ToString(),
-                Color = SKColor.Parse("#2c3e50")
+                Color = SKColor.Parse("#1A7CA6")
             },
             new ChartEntry((float)Checks[0].GH)
             {
@@ -81,12 +81,15 @@ public partial class PopupPage : ContentPage
 
         chartView.Chart = new BarChart
         {
-            Entries = entries
+            Entries = entries,
+            LabelTextSize = 25,
+            ValueLabelTextSize = 25
         };
 
         chartView1.Chart = new RadarChart
         {
-            Entries = entries
+            Entries = entries,
+            LabelTextSize = 25
         };
 
         data.Text = Checks[0].Data.ToString().Substring(0, 9);
