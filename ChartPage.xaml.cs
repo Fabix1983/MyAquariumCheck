@@ -55,7 +55,7 @@ public partial class ChartPage : ContentPage
                 entriesPH[i] =
                 new ChartEntry((float)Checks[i].PH)
                 {
-                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    Label = Checks[i].Data.ToString().Substring(0, 10),
                     ValueLabel = Checks[i].PH.ToString(),
                     Color = SKColor.Parse("#1A7CA6"),
                 };
@@ -63,7 +63,7 @@ public partial class ChartPage : ContentPage
                 entriesGH[i] =
                 new ChartEntry((float)Checks[i].GH)
                 {
-                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    Label = Checks[i].Data.ToString().Substring(0, 10),
                     ValueLabel = Checks[i].GH.ToString(),
                     Color = SKColor.Parse("#77d065")
                 };
@@ -71,7 +71,7 @@ public partial class ChartPage : ContentPage
                 entriesKH[i] =
                 new ChartEntry((float)Checks[i].KH)
                 {
-                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    Label = Checks[i].Data.ToString().Substring(0, 10),
                     ValueLabel = Checks[i].KH.ToString(),
                     Color = SKColor.Parse("#b455b6")
                 };
@@ -79,7 +79,7 @@ public partial class ChartPage : ContentPage
                 entriesNo2[i] =
                 new ChartEntry((float)Checks[i].NO2)
                 {
-                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    Label = Checks[i].Data.ToString().Substring(0, 10),
                     ValueLabel = Checks[i].NO2.ToString(),
                     Color = SKColor.Parse("#3498db")
                 };
@@ -87,7 +87,7 @@ public partial class ChartPage : ContentPage
                 entriesNo3[i] =
                 new ChartEntry((float)Checks[i].NO3)
                 {
-                    Label = Checks[i].Data.ToString().Substring(0, 9),
+                    Label = Checks[i].Data.ToString().Substring(0, 10),
                     ValueLabel = Checks[i].NO3.ToString(),
                     Color = SKColor.Parse("#e9967a")
                 };
@@ -102,35 +102,40 @@ public partial class ChartPage : ContentPage
             {
                 Entries = entriesPH,
                 LabelTextSize = 25,
-                ValueLabelTextSize = 25
+                ValueLabelTextSize = 25,
+                ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewGH.Chart = new BarChart
             {
                 Entries = entriesGH,
                 LabelTextSize = 25,
-                ValueLabelTextSize = 25
+                ValueLabelTextSize = 25,
+                ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewKH.Chart = new BarChart
             {
                 Entries = entriesKH,
                 LabelTextSize = 25,
-                ValueLabelTextSize = 25
+                ValueLabelTextSize = 25,
+                ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewNo2.Chart = new LineChart
             {
                 Entries = entriesNo2,
                 LabelTextSize = 25,
-                ValueLabelTextSize = 25
+                ValueLabelTextSize = 25,
+                ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewNo3.Chart = new LineChart
             {
                 Entries = entriesNo3,
                 LabelTextSize = 25,
-                ValueLabelTextSize = 25
+                ValueLabelTextSize = 25,
+                ValueLabelOrientation = Orientation.Horizontal
             };
         }
     }

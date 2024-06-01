@@ -19,7 +19,7 @@ public partial class PopupPage : ContentPage
 	{
 		InitializeComponent();
         database = new DataBase();
-        long idrecord = id;
+        long idrecord = Convert.ToInt64(id);
         LeggiCheckItemDetails(idrecord);
 
         //DEBUG
@@ -83,7 +83,8 @@ public partial class PopupPage : ContentPage
         {
             Entries = entries,
             LabelTextSize = 25,
-            ValueLabelTextSize = 25
+            ValueLabelTextSize = 25,
+            ValueLabelOrientation = Orientation.Horizontal
         };
 
         chartView1.Chart = new RadarChart
@@ -92,7 +93,7 @@ public partial class PopupPage : ContentPage
             LabelTextSize = 25
         };
 
-        data.Text = Checks[0].Data.ToString().Substring(0, 9);
+        data.Text = Checks[0].Data.ToString().Substring(0, 10);
 
         //DEBUG
         //await App.Current.MainPage.DisplayAlert("ID 3", Checks[0].Id.ToString(), "OK");

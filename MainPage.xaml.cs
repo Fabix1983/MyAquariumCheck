@@ -150,7 +150,7 @@ namespace MyAquariumCheck
             }
             catch (Exception ex)
             {
-                await DisplayAlert("Errore", $"Attenzione si è verifcato un errore imprevisto...(ex:" + ex.Message + ")", "KO");
+                await DisplayAlert("Errore", $"Attenzione si è verifcato un errore imprevisto...(" + ex.Message + ")", "KO");
             }
 
 
