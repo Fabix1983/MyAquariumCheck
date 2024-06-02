@@ -141,7 +141,8 @@ namespace MyAquariumCheck
                     //DEBUG
                     //await App.Current.MainPage.DisplayAlert("ID", id.ToString(), "OK");
 
-                    await Navigation.PushModalAsync(new PopupPage(id));
+                    //await Navigation.PushModalAsync(new PopupPage(id));
+                    await Application.Current.MainPage.Navigation.PushModalAsync(new PopupPage(id), true);
                 }
                 else
                 {

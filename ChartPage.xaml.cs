@@ -101,40 +101,40 @@ public partial class ChartPage : ContentPage
             chartViewPH.Chart = new BarChart
             {
                 Entries = entriesPH,
-                LabelTextSize = 25,
-                ValueLabelTextSize = 25,
+                LabelTextSize = 26,
+                ValueLabelTextSize = 26,
                 ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewGH.Chart = new BarChart
             {
                 Entries = entriesGH,
-                LabelTextSize = 25,
-                ValueLabelTextSize = 25,
+                LabelTextSize = 26,
+                ValueLabelTextSize = 26,
                 ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewKH.Chart = new BarChart
             {
                 Entries = entriesKH,
-                LabelTextSize = 25,
-                ValueLabelTextSize = 25,
+                LabelTextSize = 26,
+                ValueLabelTextSize = 26,
                 ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewNo2.Chart = new LineChart
             {
                 Entries = entriesNo2,
-                LabelTextSize = 25,
-                ValueLabelTextSize = 25,
+                LabelTextSize = 26,
+                ValueLabelTextSize = 26,
                 ValueLabelOrientation = Orientation.Horizontal
             };
 
             chartViewNo3.Chart = new LineChart
             {
                 Entries = entriesNo3,
-                LabelTextSize = 25,
-                ValueLabelTextSize = 25,
+                LabelTextSize = 26,
+                ValueLabelTextSize = 26,
                 ValueLabelOrientation = Orientation.Horizontal
             };
         }

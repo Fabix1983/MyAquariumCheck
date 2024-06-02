@@ -23,8 +23,7 @@ public partial class PopupPage : ContentPage
         LeggiCheckItemDetails(idrecord);
 
         //DEBUG
-        //App.Current.MainPage.DisplayAlert("ID 1", idrecord.ToString(), "OK");
-        //label0.Text = String.Format("idrecord: {0}", idrecord.ToString());
+        //App.Current.MainPage.DisplayAlert("ID:", idrecord.ToString(), "OK");
     }
 
     private async void LeggiCheckItemDetails(long id)
@@ -82,15 +81,15 @@ public partial class PopupPage : ContentPage
         chartView.Chart = new BarChart
         {
             Entries = entries,
-            LabelTextSize = 25,
-            ValueLabelTextSize = 25,
+            LabelTextSize = 28,
+            ValueLabelTextSize = 28,
             ValueLabelOrientation = Orientation.Horizontal
         };
 
         chartView1.Chart = new RadarChart
         {
             Entries = entries,
-            LabelTextSize = 25
+            LabelTextSize = 28
         };
 
         data.Text = Checks[0].Data.ToString().Substring(0, 10);
